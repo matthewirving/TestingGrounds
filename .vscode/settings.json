@@ -1,4 +1,5 @@
 {
     "cmake.configureOnOpen": true,
-    "idf.adapterTargetName": "esp32"
+    "idf.adapterTargetName": "esp32",
+    "C_Cpp.errorSquiggles": "Enabled"
 }
